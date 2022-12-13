@@ -113,3 +113,17 @@ header {
     display: block;
 }
 .nav>div:hover {background-color: #ddd;}
+
+/*개시판*/
+.post_box {
+    margin: 50px 100px 0 100px;
+    width:200px;
+    height:200px;
+
+}
+#post_style {
+    width:100%;
+    height: 100%;
+    display:flex;
+    flex-wrap:nowrap;
+}
